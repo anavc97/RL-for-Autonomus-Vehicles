@@ -3,8 +3,11 @@
 - Base code for project: "Tuning A Path Tracking Controller for an Autonomous Vehicle Using Reinforcement Learning"
 - This system (fig.1) uses a reinforcement learning agent to tune the parameters of a path tracking controller (fig.2)
 
-![Full_arch](https://user-images.githubusercontent.com/57260454/220219032-6f9c628c-399e-4698-9566-0dc1bba5ef6c.jpg)
+--------![Full_arch](https://user-images.githubusercontent.com/57260454/220219032-6f9c628c-399e-4698-9566-0dc1bba5ef6c.jpg)
 Figure 1
+
+
+
 
 --------![controller](https://user-images.githubusercontent.com/57260454/220218751-f5405d5a-bf8c-4bcb-a0f6-6bb19b5544a4.jpg)
 Figure 2
