@@ -24,15 +24,15 @@ This code requires the following programs to be installed:
 
 # Instructions of Use
 
-1. After installing CARLA: copy all files in [] folder to /[path]/[to]/CARLA_0.9.9.4/PythonAPI/examples/
+1. After installing CARLA: copy all files from the main folder to /[path]/[to]/CARLA_0.9.9.4/PythonAPI/examples/
 
 2. In /[path]/[to]/CARLA_0.9.9.4/, run 
 ```
-bash -xv ./CarlaUE4.sh -opengl -quality-level=Low" 
+bash -xv ./CarlaUE4.sh -opengl -quality-level=Low 
 ```
 (flags might need adjustment)
 
-3. In /[path]/[to]/CARLA_0.9.9.4/, run 
+3. In another terminal, in /[path]/[to]/CARLA_0.9.9.4/, run 
 
 ```
 source ~/carla-ros-bridge/catkin_ws/devel/setup.bash
@@ -45,7 +45,7 @@ roslaunch carla_ackermann_control carla_ackermann_control.launch
 source ~/carla-ros-bridge/catkin_ws/devel/setup.bash
 ```
 
-followed by your python script
+followed by the python script you want to run
 
 5. (optional) Copy file *carla_ros_bridge_with_example_ego_vehicle.launch* to */[path]/[to]/carla-ros-bridge/ros-bridge/carla_ros_bridge/launch/* (or just edit the file already in that folder)
 
