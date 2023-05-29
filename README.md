@@ -63,6 +63,8 @@ followed by the python script you want to run
 - test_control_repeat.py: validate system in each maneuver (parameters: list of gains to train (K_list), number of tests per gain (N_LAPS))
 **Note:** Do not forget to configure the launch file with the appropriate initial position for that maneuver
 
+*MAP*: Town 3
+
 LANE CHANGE:
 "-84.9,124.6056,0,0,0,-91.4"
 
