@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/576361340.svg)](https://zenodo.org/badge/latestdoi/576361340)
+
 # Tuning A Path Tracking Controller for an Autonomous Vehicle Using Reinforcement Learning
 
 - Base code for project: "Tuning A Path Tracking Controller for an Autonomous Vehicle Using Reinforcement Learning"
